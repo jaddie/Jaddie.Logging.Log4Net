@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Jaddie.Logging.Log4Net</id>
+        <version>1.0.0</version>
+        <authors>James Dartnell</authors>
+        <owners>James Dartnell</owners>
+        <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>A Simple Logging Framework Log4Net Implementation</description>
+        <dependencies>
+            <dependency id="Jaddie.Logging" version="1.0.0" />
+        </dependencies>
+    </metadata>
+</package>
